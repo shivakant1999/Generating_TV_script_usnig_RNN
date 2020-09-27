@@ -1,6 +1,7 @@
 # RNN TV Script Generator Project
 
 Recurrent Neural Network (RNN) defined and train to generate new tv scripts - in this case Seinfeld scripts. This project was completed as part of Udacity's Deep Learning Nanodegree program.
+<img src="./output.PNG">
 
 # Project Overview
 This project focuses on creating a RNN in PyTorch that can learn to generate new tv scripts - like Seinfeld scripts.
