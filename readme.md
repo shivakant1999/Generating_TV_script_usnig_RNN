@@ -2,7 +2,7 @@
 
 Recurrent Neural Network (RNN) defined and train to generate new tv scripts - in this case Seinfeld scripts. This project was completed as part of Udacity's Deep Learning Nanodegree program.
 
-# Ooutput Sample 
+# Output Sample 
 
 <img src="./output.PNG">
 
